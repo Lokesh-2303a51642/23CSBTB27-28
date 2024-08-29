@@ -4,3 +4,4 @@
 3. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/BFS.ipynb]
 4. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/DFS.ipynb]
 5. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/A_STAR_ALOGORTIHM.ipynb]
+6. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/Assigenment_3.ipynb]
