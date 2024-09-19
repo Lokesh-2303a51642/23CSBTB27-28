@@ -7,4 +7,6 @@
 6. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/Assigenment_3.ipynb]
 7. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/ASS_4.ipynb]
 8. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/Assignment5.ipynb]
-9. 
+9. [https://github.com/Lokesh-2303a51642/23CSBTB27-28/blob/main/Assignment_6.ipynb]
+10. 
+11. 
